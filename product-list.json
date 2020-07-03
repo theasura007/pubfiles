@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Product 1",
+        "detail": "Lorem ipsum dolor sit amet",
+        "price": "99",
+        "info": "This is the latest and greatest product from Derp corp.",
+        "image": "https://cdn10.bigcommerce.com/s-e2x3xdm/products/52/images/249/instyle_trenery_104732__97359.1348449797.1280.1280.jpg?c=2"
+    },
+    {
+        "name": "Product 2",
+        "detail": "Lorem ipsum dolor sit amet",
+        "price": "99",
+        "offer": "BOGOF",
+        "image": "https://s0.as-img.com/r/pic/483044/1500/1500/side.jpg?bg=f5f5f5&u=1537766015"
+    },
+    {
+        "name": "Product 3",
+        "detail": "Lorem ipsum dolor sit amet",
+        "price": "99",
+        "image": "https://cdn.shopify.com/s/files/1/2116/7717/products/basic-dinnerware-set-cloudview-heath-ceramics_DWSET3_440x440_crop_center.jpg?v=1536363163"
+    },
+    {
+        "name": "Product 4",
+        "detail": "Lorem ipsum dolor sit amet",
+        "price": "99",
+        "offer": "No srsly GTFO",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnvMxO_mpk3EaLIf7zmXJkk9O8k9-tffpZjZflehs98mwzIyjIw"
+    },
+    {
+        "name": "Product 5",
+        "detail": "Lorem ipsum dolor sit amet",
+        "price": "99",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYCcqtGdvGwtNXhs0YzJ7pwh1AmZWYdAQuxpmpRUNJlmcOh1_uA"
+    },
+    {
+        "name": "Product 6",
+        "detail": "Lorem ipsum dolor sit amet",
+        "price": "99",
+        "info": "This is the latest and greatest product from RRTTT.",
+        "offer": "info with offer",
+        "image": "https://static.toiimg.com/thumb/msid-63393835,width-220,resizemode-4,imgv-0/Vivo-Apex.jpg"
+    }
+]
